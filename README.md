@@ -1,13 +1,3 @@
-# Panacloud Website
-
-Out next task is to build a Panacloud website, We will design the Panacloud website using mix of :
-
-https://www.scnsoft.com/
-
-https://www.krishaweb.com/
-
-
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -20,6 +10,8 @@ npm run dev
 yarn dev
 # or
 pnpm dev
+# or
+bun run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
