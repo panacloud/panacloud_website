@@ -2,7 +2,7 @@
 
 ## Summary
 
-We are planning to start a software development agency which will be exclusively focused on emerging and cutting edge technologies. The name of the agency will be BizTech. The agency will be focused on Generative AI, API Development, Cloud Native Computing, and Web 3.0 Technologies. Our Technology stack will be TypeScript and Next.js for front end graphic user interface development. Python, FastAPI, and SQLModel for backend development. Docker, Kubernetes, and Serverless Containers for Backend infrastructure and deployment. Our technology stack is cloud agnostic and avoid cloud lockin. OpenAI and Google Gemini APIs for developing AI Powered APIs. We will also develop Conversational User Interfaces i.e. Custom GPTs for OpenAI Store and Azure Cloud.  The agency will provide both software development services and resource augmentation services. Please design a website for potential customers.
+We are planning to start a software development agency which will be exclusively focused on emerging and cutting edge technologies. The name of the agency will be Panacloud. The agency will be focused on Generative AI, API Development, Cloud Native Computing, and Web 3.0 Technologies. Our Technology stack will be TypeScript and Next.js for front end graphic user interface development. Python, FastAPI, and SQLModel for backend development. Docker, Kubernetes, and Serverless Containers for Backend infrastructure and deployment. Our technology stack is cloud agnostic and avoid cloud lockin. OpenAI and Google Gemini APIs for developing AI Powered APIs. We will also develop Conversational User Interfaces i.e. Custom GPTs for OpenAI Store and Azure Cloud.  The agency will provide both software development services and resource augmentation services. Please design a website for potential customers.
 
 
 ## Our Objective
@@ -56,11 +56,11 @@ Certainly! Let's create a captivating website for your software development agen
 
 Remember, a well-designed website is not just about aesthetics—it's about conveying your expertise, building trust, and driving conversions. Feel free to customize this outline to align with your agency's unique brand identity. Best of luck with Panacloud! 🚀🌟
 
-## BizTech Business Plan
+## Panacloud Business Plan
 
 **Executive Summary**
 
-BizTech is a software development agency specializing in emerging and cutting-edge technologies. We empower businesses to leverage the transformative power of Generative AI (GAI), API development, Cloud Native computing, and Web 3.0 technologies to gain a competitive edge. Our cloud-agnostic approach, combined with a powerful technology stack, ensures flexibility and future-proof solutions.
+Panacloud is a software development agency specializing in emerging and cutting-edge technologies. We empower businesses to leverage the transformative power of Generative AI (GAI), API development, Cloud Native computing, and Web 3.0 technologies to gain a competitive edge. Our cloud-agnostic approach, combined with a powerful technology stack, ensures flexibility and future-proof solutions.
 
 **Mission**
 
@@ -77,6 +77,7 @@ We envision a future where businesses seamlessly integrate cutting-edge technolo
     * API development (connecting systems and data)
     * Cloud-native application development (scalable and cost-effective)
     * Web 3.0 development (decentralized applications and blockchain integration)
+      
 * **Resource Augmentation:**
     * Extend existing development teams with specialized talent
 
@@ -90,7 +91,7 @@ We envision a future where businesses seamlessly integrate cutting-edge technolo
 
 **Market Opportunity**
 
-The demand for emerging technologies is rapidly growing. Businesses across industries recognize the potential of GAI, APIs, Cloud Native computing, and Web 3.0 to revolutionize their operations. BizTech is positioned to capture this market opportunity by providing a unique combination of expertise, agility, and future-proof solutions.
+The demand for emerging technologies is rapidly growing. Businesses across industries recognize the potential of GAI, APIs, Cloud Native computing, and Web 3.0 to revolutionize their operations. Panacloud is positioned to capture this market opportunity by providing a unique combination of expertise, agility, and future-proof solutions.
 
 **Competitive Advantage**
 
@@ -99,11 +100,13 @@ The demand for emerging technologies is rapidly growing. Businesses across indus
 * **Full-Spectrum Services:** We offer both software development and resource augmentation solutions to meet diverse client needs.
 * **Focus on Client Success:** We prioritize close collaboration and delivering solutions that drive real business value.
 
-**Management Team**
+Management Team**
 
-* **Zia Khan:** https://www.linkedin.com/in/ziaukhan/
-* **Muhammad Qasim:** https://www.linkedin.com/in/sirqasim/
 * **Ameen Alam:** https://www.linkedin.com/in/ameen-alam/
+* **Zeeshan Hanif** https://www.linkedin.com/in/zeeshanhanif/
+* **Muhammad Qasim:** https://www.linkedin.com/in/sirqasim/
+* **Daniyal Nagori:** https://www.linkedin.com/in/daniyalnagori/
+* **Zia Khan:** https://www.linkedin.com/in/ziaukhan/
 
 **Marketing & Sales Strategy**
 
@@ -115,12 +118,7 @@ The demand for emerging technologies is rapidly growing. Businesses across indus
 
 **Conclusion**
 
-BizTech is a forward-thinking software development agency poised to become a leader in the emerging technology space. We offer a unique combination of expertise, agility, and a commitment to client success. By investing in BizTech, you are investing in the future of technology and the potential to revolutionize how businesses operate. 
-
-**Call to Action**
-
-Contact BizTech today to discuss your emerging technology needs and how we can help you unlock new possibilities.
-
+Panacloud is a forward-thinking software development agency poised to become a leader in the emerging technology space. We offer a unique combination of expertise, agility, and a commitment to client success. 
 
 
 
